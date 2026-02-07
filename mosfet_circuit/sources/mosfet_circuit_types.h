@@ -1,0 +1,6 @@
+#ifndef RTW_HEADER_mosfet_circuit_types_h_
+#define RTW_HEADER_mosfet_circuit_types_h_
+
+typedef struct tag_RTM_mosfet_circuit_T RT_MODEL_mosfet_circuit_T;
+
+#endif
